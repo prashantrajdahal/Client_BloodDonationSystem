@@ -1,0 +1,21 @@
+.requestor-main {
+    background-image: url("https://cdn.wallpapersafari.com/44/30/spMtxh.jpg");
+    padding: 0;
+    margin: 0;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .requestor-link {
+    color: #fa9c23;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    
+  }
+  

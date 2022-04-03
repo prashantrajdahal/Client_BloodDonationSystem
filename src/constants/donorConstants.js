@@ -1,0 +1,9 @@
+export const Enable_Donar_Request = 'ENABLE_DONAR_REQUEST';
+export const Enable_Donar_Success = 'ENABLE_DONAR_SUCCESS';
+export const Enable_Donar_Fail = 'ENABLE_DONAR_FAIL';
+export const Disable_Donar_Request = 'DISABLE_DONAR_REQUEST';
+export const Disable_Donar_Success = 'DISABLE_DONAR_SUCCESS';
+export const Disable_Donar_Fail = 'DISABLE_DONAR_FAIL';
+export const Get_Requestor_Request = 'GET_REQUESTOR_REQUEST';
+export const Get_Requestor_Success = 'GET_REQUESTOR_SUCCESS';
+export const Get_Requestor_Fail = 'GET_REQUESTOR_FAIL';

@@ -1,0 +1,25 @@
+.row {
+    margin-bottom: 6px;
+  }
+  
+  h3 {
+    color: #9f190c;
+  }
+
+  h2{
+    color: #d10034;
+    text-align: center;
+  }
+  
+  div.card div.card-content {
+    padding-bottom: 0.1em;
+  }
+
+  .cover-header {
+    color: rgb(197, 0, 0);
+    font-size: 1.5em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+  }

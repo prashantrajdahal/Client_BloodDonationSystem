@@ -1,0 +1,23 @@
+.about-container {
+  margin-top: 5rem;
+
+  width: 80%;
+  position: absolute;
+}
+
+.about-container .ro1 {
+  height: 500px;
+}
+
+.about-container .row .section2 {
+  margin-left: 3px;
+  color: rgb(250, 250, 250);
+}
+
+.section001 {
+  width: 80%;
+}
+
+.section001 img {
+  border: 4px solid white;
+}
